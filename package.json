@@ -6,7 +6,7 @@
   },
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
   "repository": "https://github.com/leandrofuenge/webtest-fuenge-deployt.git",
   "author": "Leandro <leandroala01g2@gmail.com>",
